@@ -12,3 +12,8 @@ NAME : [Sairev0](https://github.com/SaiRev0)
 * Place = Jharkhand , India
 * Bio = Software Engineer
 * GitHub = https://github.com/SaiRev0
+
+NAME : [KritikaTri](https://github.com/KritikaTri)
+* Place = Uttar Pradesh , India
+* Bio = Just None
+* GitHub = https://github.com/KritikaTri
